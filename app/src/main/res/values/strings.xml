@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Account Registration</string>
+    <string name="submit">Submit</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create Account</string>
+    <string name="suffix">Title:</string>
+    <string name="account_summary">Account Summary</string>
+    <string name="your_phone_number_is">Your phone number is:</string>
+    <string name="your_email_is">Your email is:</string>
+    <string name="your_full_name_is">Your full name is:</string>
+    <string name="your_username_will_be">Your username will be:</string>
+</resources>
